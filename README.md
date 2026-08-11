@@ -17,7 +17,7 @@
 ## 🌐 Live Project
 
 🔗 **Live Website:**
-**[Open Empty but Live](https://empty-but-live-week04.netlify.app/)**
+https://empty-but-live-week04.vercel.app/
 
 > The project is intentionally minimal. The goal is to prove that a project can go from an empty folder to a publicly reachable URL.
 
